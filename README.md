@@ -8,6 +8,10 @@ This program is used to transfrom the kindle clippings to mutil-txt files, which
 
 ## 使用方法 how to use
 
-把 "My Clippings.txt" 写成你自己的书签的文件地址  change "My Clippings.txt" to your own clippings txt file adderss
+1. 下载 ClipRead1.py download ClipRead1.py
 
-把"/Users/apple/Desktop/clip/" 换成要存放生成txt的文件夹名 write clip floder name which you want to save
+2. 把 "My Clippings.txt" 写成你自己的书签的文件地址  change "My Clippings.txt" to your own clippings txt file adderss
+
+3. 把"/Users/apple/Desktop/clip/" 换成要存放生成txt的文件夹名 change "/Users/apple/Desktop/clip/" to the clip floder name which you want to save
+
+4. 运行程序 run program
